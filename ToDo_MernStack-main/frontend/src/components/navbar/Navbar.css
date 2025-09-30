@@ -1,0 +1,20 @@
+.navbar {
+  background: linear-gradient(135deg, #ed8a8a, #d54141); /* Gradient background */
+}
+
+.navbar-brand {
+  color: rgba(240, 0, 0, 0.87); /* Navbar brand color */
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #fff !important; /* Link color */
+}
+
+.btn-nav {
+  background-color: rgba(240, 0, 0, 0.87); /* Button background color */
+  border-radius: 5px;
+  color: #fff !important; /* Button text color */
+  font-weight: bold;
+}
